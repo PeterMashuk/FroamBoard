@@ -1,0 +1,5 @@
+{"icons":[
+{ "src": "assets/favicons/apple-touch-icon180x180.png", "type": "image/png", "sizes": "180x180" },
+{ "src": "assets/favicons/icon-chrome192x192.png", "type": "image/png", "sizes": "192x192" },
+{ "src": "assets/favicons/apple-touch-icon256x256.png", "type": "image/png", "sizes": "192x192" },
+{ "src": "assets/favicons/icon-chrome512x512.png", "type": "image/png", "sizes": "512x512" }]}
